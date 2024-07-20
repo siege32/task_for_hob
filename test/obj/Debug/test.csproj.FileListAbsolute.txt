@@ -1,0 +1,8 @@
+C:\Users\bossg\OneDrive\Рабочий стол\pet_proects\test\bin\Debug\test.exe.config
+C:\Users\bossg\OneDrive\Рабочий стол\pet_proects\test\bin\Debug\test.exe
+C:\Users\bossg\OneDrive\Рабочий стол\pet_proects\test\bin\Debug\test.pdb
+C:\Users\bossg\OneDrive\Рабочий стол\pet_proects\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\bossg\OneDrive\Рабочий стол\pet_proects\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\bossg\OneDrive\Рабочий стол\pet_proects\test\obj\Debug\test.exe
+C:\Users\bossg\OneDrive\Рабочий стол\pet_proects\test\obj\Debug\test.pdb
+C:\Users\bossg\OneDrive\Рабочий стол\pet_proects\test\obj\Debug\test.csproj.Up2Date

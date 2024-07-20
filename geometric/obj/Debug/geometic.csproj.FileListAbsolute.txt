@@ -1,0 +1,6 @@
+C:\Users\bossg\OneDrive\Рабочий стол\pet_proects\geometic\bin\Debug\geometic.dll
+C:\Users\bossg\OneDrive\Рабочий стол\pet_proects\geometic\bin\Debug\geometic.pdb
+C:\Users\bossg\OneDrive\Рабочий стол\pet_proects\geometic\obj\Debug\geometic.csproj.AssemblyReference.cache
+C:\Users\bossg\OneDrive\Рабочий стол\pet_proects\geometic\obj\Debug\geometic.csproj.CoreCompileInputs.cache
+C:\Users\bossg\OneDrive\Рабочий стол\pet_proects\geometic\obj\Debug\geometic.dll
+C:\Users\bossg\OneDrive\Рабочий стол\pet_proects\geometic\obj\Debug\geometic.pdb
